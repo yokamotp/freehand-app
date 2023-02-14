@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-freehand2-dev-172508-authRole",
+      "UnauthRoleArn": "arn:aws:iam::884428965953:role/amplify-freehand2-dev-172508-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::884428965953:role/amplify-freehand2-dev-172508-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-freehand2-dev-172508-deployment",
+      "UnauthRoleName": "amplify-freehand2-dev-172508-unauthRole",
+      "StackName": "amplify-freehand2-dev-172508",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:884428965953:stack/amplify-freehand2-dev-172508/188a9360-ac41-11ed-96a7-06df17f933eb",
+      "AmplifyAppId": "d1sgwn8ajb79al"
+    }
+  }
+}
